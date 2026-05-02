@@ -11,7 +11,6 @@ import plotly.express as px
 # PAGE CONFIG
 # =========================
 st.set_page_config(
-    
     page_title="Ticket Sales Dashboard",
     page_icon="🎟️",
     layout="wide",
